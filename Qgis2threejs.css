@@ -3,6 +3,13 @@ body {
   margin: 0;
   overflow: hidden;
 }
+h1,h2{
+  color:white;
+  width:15em;
+  padding: 1em;
+  margin-bottom:0em;
+}
+
 
 #view {
   position: absolute;
